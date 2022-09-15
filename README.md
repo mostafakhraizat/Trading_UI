@@ -1,4 +1,4 @@
-# uquitik_financials_task
+# Trading UI
 
 A new Flutter project.
 
