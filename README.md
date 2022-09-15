@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [LinkedIn]((https://www.linkedin.com/in/mostafa-khraizat-765b62210/))
+- [LinkedIn](https://www.linkedin.com/in/mostafa-khraizat-765b62210/)
  
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
